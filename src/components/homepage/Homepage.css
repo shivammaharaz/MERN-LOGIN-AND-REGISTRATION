@@ -1,0 +1,16 @@
+.homepage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50vw;
+    height: 50vh;
+    border-radius: 20px;
+    background: whitesmoke;
+    position: relative;
+    box-shadow: 0 0 10px 2px  lightslategrey;
+}
+.homepage>h1{
+    text-transform: uppercase;
+}
